@@ -1,5 +1,5 @@
 FROM ubuntu:xenial
-MAINTAINER "Chris Miller" <c.a.miller@wustl.edu>
+MAINTAINER "Dave Spencer" <dspencer@wustl.edu>
 
 RUN apt-get update -y && apt-get install -y \
     build-essential \
